@@ -1,5 +1,54 @@
 # Change Log
 
+## [v4.2.0](https://github.com/feathersjs/generator-feathers/tree/v4.2.0) (2020-02-13)
+[Full Changelog](https://github.com/feathersjs/generator-feathers/compare/v4.1.5...v4.2.0)
+
+**Closed issues:**
+
+- An in-range update of mongoose is breaking the build 🚨 [\#526](https://github.com/feathersjs/generator-feathers/issues/526)
+
+**Merged pull requests:**
+
+- Update all dependencies [\#527](https://github.com/feathersjs/generator-feathers/pull/527) ([daffl](https://github.com/daffl))
+- Fix lint errors picked up by StandardJS [\#525](https://github.com/feathersjs/generator-feathers/pull/525) ([jntesteves](https://github.com/jntesteves))
+- Add prompt to choose linter between ESLint and StandardJS [\#524](https://github.com/feathersjs/generator-feathers/pull/524) ([jntesteves](https://github.com/jntesteves))
+- fix: set private field true in package.json [\#523](https://github.com/feathersjs/generator-feathers/pull/523) ([ucokfm](https://github.com/ucokfm))
+- Update mocha to the latest version 🚀 [\#522](https://github.com/feathersjs/generator-feathers/pull/522) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+
+## [v4.1.5](https://github.com/feathersjs/generator-feathers/tree/v4.1.5) (2019-12-31)
+[Full Changelog](https://github.com/feathersjs/generator-feathers/compare/v4.1.4...v4.1.5)
+
+**Merged pull requests:**
+
+- Update semver to the latest version 🚀 [\#521](https://github.com/feathersjs/generator-feathers/pull/521) ([greenkeeper[bot]](https://github.com/apps/greenkeeper))
+
+## [v4.1.4](https://github.com/feathersjs/generator-feathers/tree/v4.1.4) (2019-12-13)
+[Full Changelog](https://github.com/feathersjs/generator-feathers/compare/v4.1.3...v4.1.4)
+
+**Closed issues:**
+
+- An in-range update of @feathersjs/feathers is breaking the build 🚨 [\#516](https://github.com/feathersjs/generator-feathers/issues/516)
+- An in-range update of @feathersjs/authentication is breaking the build 🚨 [\#515](https://github.com/feathersjs/generator-feathers/issues/515)
+- An in-range update of @feathersjs/configuration is breaking the build 🚨 [\#514](https://github.com/feathersjs/generator-feathers/issues/514)
+- An in-range update of @feathersjs/primus is breaking the build 🚨 [\#513](https://github.com/feathersjs/generator-feathers/issues/513)
+- An in-range update of @feathersjs/socketio is breaking the build 🚨 [\#512](https://github.com/feathersjs/generator-feathers/issues/512)
+- An in-range update of @feathersjs/authentication-oauth is breaking the build 🚨 [\#511](https://github.com/feathersjs/generator-feathers/issues/511)
+- An in-range update of @feathersjs/authentication-local is breaking the build 🚨 [\#510](https://github.com/feathersjs/generator-feathers/issues/510)
+- An in-range update of @feathersjs/errors is breaking the build 🚨 [\#509](https://github.com/feathersjs/generator-feathers/issues/509)
+- An in-range update of feathers-mongoose is breaking the build 🚨 [\#508](https://github.com/feathersjs/generator-feathers/issues/508)
+- An in-range update of feathers-objection is breaking the build 🚨 [\#506](https://github.com/feathersjs/generator-feathers/issues/506)
+- An in-range update of eslint is breaking the build 🚨 [\#504](https://github.com/feathersjs/generator-feathers/issues/504)
+- An in-range update of feathers-mongodb is breaking the build 🚨 [\#502](https://github.com/feathersjs/generator-feathers/issues/502)
+- An in-range update of mongoose is breaking the build 🚨 [\#500](https://github.com/feathersjs/generator-feathers/issues/500)
+
+**Merged pull requests:**
+
+- Revert "Fixes app not listening to configured hostname \(\#495\)" [\#520](https://github.com/feathersjs/generator-feathers/pull/520) ([daffl](https://github.com/daffl))
+- Replaced string 'user' with the service name for mongoDB collection [\#518](https://github.com/feathersjs/generator-feathers/pull/518) ([codyparker](https://github.com/codyparker))
+- Update mogoose generators [\#517](https://github.com/feathersjs/generator-feathers/pull/517) ([davison](https://github.com/davison))
+- Update dependencies [\#507](https://github.com/feathersjs/generator-feathers/pull/507) ([daffl](https://github.com/daffl))
+- Update all dependencies and lock @types/validator for now [\#503](https://github.com/feathersjs/generator-feathers/pull/503) ([daffl](https://github.com/daffl))
+
 ## [v4.1.3](https://github.com/feathersjs/generator-feathers/tree/v4.1.3) (2019-10-31)
 [Full Changelog](https://github.com/feathersjs/generator-feathers/compare/v4.1.2...v4.1.3)
 
